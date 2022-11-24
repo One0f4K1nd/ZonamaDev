@@ -73,7 +73,7 @@ Vagrant.configure(2) do |config|
   config.vm.hostname = "swgemudev"
 
   # Base Box
-  config.vm.box = "zonama/zonamadev-deb-stretch"
+  config.vm.box = "aacker02/ZonamaDev"
   config.vm.box_version = "1.5.8"
   config.vm.box_check_update = true
 
