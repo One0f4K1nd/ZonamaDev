@@ -4,8 +4,8 @@ if [ -z "$BASH_VERSION" ]; then
     exit 15
 fi
 
-ZONAMADEV_URL='https://github.com/Zonama/ZonamaDev'
-ZONAMADEV_BRANCH='release-1.5'
+ZONAMADEV_URL='https://github.com/One0f4K1nd/ZonamaDev'
+ZONAMADEV_BRANCH='master'
 OS='unknown'
 
 main() {
